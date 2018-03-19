@@ -1,7 +1,7 @@
 # blog_auto_comment
 Need to identify the verification code image when submiting the comment content.
 
-##运行环境
+#运行环境
 1. python3
 
 2. 安装baidu-aip模块
